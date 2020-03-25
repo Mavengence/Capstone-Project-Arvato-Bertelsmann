@@ -4,10 +4,15 @@
 <hr>
 <h1>Capstone Project | Arvato Bertelsmann<h1>
 <h3>Udacity Data Science Nanodegree</h3>
-<img src="img/Udacity_logo.png" width="400" height="170">
+<img src="img/Udacity_logo.png" width="400" height="170">˘
 
 </div>
 </div>
+
+## Motivation
+
+As I enrolled for the Udacity Data Science Nanodegree, I didn’t know where my journey is going to end. This time has now arrived after I chose the dataset provided by Arvato for this final project to graduate from the Nanodegree.
+I am a Computer Science Master student from Germany, for that reason I chose this german company, because it provided data about the german population which appeared to be really interesting to me.
 
 ## Getting Started
 
@@ -20,6 +25,25 @@ The dependencies to this project are stored in the file:
    -environment.yml
 
 I use python version 3.7.4
+```
+
+###
+
+```
+
++-- arvato_data
+|   +-- DIAS_attributes.xlsx                        | Additional Information about the data
+|   +-- DIAS_information.xlsx                       | Additional Information about the data
+|   +-- Udacity_MAILOUT_052018_TEST.csv             | Test data without label
+|   +-- Udacity_MAILOUT_052018_TRAIN.csv            | Train data with label
++-- img
+|   +-- Udacity_logo.png
+|   +-- logo.png
++-- Arvato Project Workbook.ipynb                   | Main Project <includes all the work>
++-- environment.yml                                 | The dependencies and their version for this project
++-- readme.md
++-- .gitignore              
+
 ```
 
 ### Installing
@@ -55,6 +79,15 @@ clone the repository: https://github.com/Mavengence/Capstone-Project-Arvato-Bert
 * Online Purchase: This is undeniably the case the most customers (91%) are buying the things online. So a digital marketing campaign for online purchasers makes a lot of sense.
 
 * Customer Group: This is most often multi buyers (69%) and only (31%) are single buyers. Since there is no further information about this column, I assume it means that people who buy at Arvato are (69%) people who already bought something in the past from Arvato. This was already shown above in "125m x 125m Grid Topic", that Arvato customers frequently multi buy things online.
+
+## Summary
+
+```
+Since the score is to a very high percentage of 0’s, a mean accuracy is not good, because in this way an accuracy of 98% can be easily achieved by only predicting 0’s. In this way, the metric AUC-Score is used.
+
+My training score after splitting the data was 78,62%
+My test score after uploading it to Kaggle was 73,33%
+```
 
 ## Author
 
