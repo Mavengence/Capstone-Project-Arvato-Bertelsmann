@@ -1,6 +1,6 @@
  <div style="border-bottom:none;">
 <div align="center">
-<img src="img/logo.png" width="800" height="300">
+<img src="img/logo.png" width="700" height="250">
 
 
  <hr>
