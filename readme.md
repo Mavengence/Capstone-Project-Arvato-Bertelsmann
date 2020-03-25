@@ -83,7 +83,9 @@ clone the repository: https://github.com/Mavengence/Capstone-Project-Arvato-Bert
 ## Summary
 
 ```
-Since the score is to a very high percentage of 0’s, a mean accuracy is not good, because in this way an accuracy of 98% can be easily achieved by only predicting 0’s. In this way, the metric AUC-Score is used.
+Since the score is to a very high percentage of 0’s, a mean accuracy is not good, 
+because in this way an accuracy of 98% can be easily achieved by only predicting 0’s. In this way, 
+the metric AUC-Score is used.
 
 My training score after splitting the data was 78,62%
 My test score after uploading it to Kaggle was 73,33%
