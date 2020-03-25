@@ -1,10 +1,10 @@
-  <div style="border-bottom:none;">
+ <div style="border-bottom:none;">
 <div align="center">
-<img style="border-bottom:none;height:250px" src="img/logo.png">
+<img src="img/logo.png" width="700" height="250">
 <hr>
-<h1 style="border-bottom:none;">Capstone Project | Arvato Bertelsmann<h1>
+<h1>Capstone Project | Arvato Bertelsmann<h1>
 <h3>Udacity Data Science Nanodegree</h3>
-<img style="border-bottom:none;height:250px" src="img/Udacity_logo.png">
+<img src="img/Udacity_logo.png" width="400" height="170">
 
 </div>
 </div>
