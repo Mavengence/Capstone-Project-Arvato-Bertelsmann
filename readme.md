@@ -1,6 +1,6 @@
  <div style="border-bottom:none;">
 <div align="center">
-<img style="border-bottom:none;width:50%;;" src="img/logo.png">
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Arvato_Logo.svg/2560px-Arvato_Logo.svg.png =400x250)
  <hr>
 <h1>Capstone Project | Arvato Bertelsmann<h1>
 <h3>Udacity Data Science Nanodegree</h3>
