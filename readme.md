@@ -1,6 +1,9 @@
-# Capstone Project | Arvato Bertelsmann
-
-Create a Customer Segmentation Report for Arvato Financial Services¶
+<div style="border-bottom:none;">
+<div align="center"> 
+<img style="border-bottom:none;" src="logo.png">
+<h1 style="border-bottom:none;">Capstone Project | Arvato Bertelsmann<h1>
+</div>
+</div>
 
 ## Getting Started
 
