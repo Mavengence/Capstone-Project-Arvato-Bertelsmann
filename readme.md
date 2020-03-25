@@ -4,7 +4,7 @@
 <hr>
 <h1>Capstone Project | Arvato Bertelsmann<h1>
 <h3>Udacity Data Science Nanodegree</h3>
-<img src="img/Udacity_logo.png" width="270" height="105">
+<img src="img/Udacity_logo.png" width="400" height="170">
 
 </div>
 </div>
