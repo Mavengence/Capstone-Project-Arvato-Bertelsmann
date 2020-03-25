@@ -15,10 +15,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-The following packes are used in this notebook:
-
 ```
-Give examples
+The dependencies to this project are stored in the file:
+   -environment.yml
+
+I use python version 3.7.4
 ```
 
 ### Installing
