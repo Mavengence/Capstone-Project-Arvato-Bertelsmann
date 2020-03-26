@@ -9,6 +9,12 @@
 </div>
 </div>
 
+## Medium Blog Post
+
+```
+https://medium.com/@kingloehr2/customer-segmentation-report-for-arvato-financial-services-f1c64902e090
+```
+
 ## Motivation
 
 As I enrolled for the Udacity Data Science Nanodegree, I didn’t know where my journey is going to end. This time has now arrived after I chose the dataset provided by Arvato for this final project to graduate from the Nanodegree.
